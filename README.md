@@ -37,6 +37,7 @@
 
 <h3 align="center">Support</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/Jevxtn"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jevxtn" /></a></p><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Stars</h3>
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jevxtn&theme=ambient-gradient" alt="Jevxtn" /></p>
