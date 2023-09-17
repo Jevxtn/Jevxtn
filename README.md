@@ -8,16 +8,19 @@
   <a href="https://www.linkedin.com/in/john-emmanuel-villegas-8a695023a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/jev_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
-  </a>
-  <a href="https://dribbble.com/Jev_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
-  </a>
-  <a href="xntfx" target="_blank">
+  <a href="https://discordapp.com/users/892664714574835743" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  <a href="https://medium.com/@Jevxtn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/V.ggez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+  <a href="https://www.twitch.tv/Jevxtn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
@@ -30,7 +33,7 @@
 
 ###
 
-<p align="left">I'm from Quezon City, Philippines.<br><br>- 🔭 I’m studying at Quezon City University (QCU) and taking Bachelor of Science in Information Technology (BSIT).<br><br>- 📚 I'm currently learning, front-end development with Meta on Coursera and pursuing Google IT Automation courses, both of which are enhancing my knowledge and proficiency in these technology domains.<br><br>- ⚡ Aspiring Front-End Developer with a passion for creating seamless user experiences. Proficient in UI/UX design principles, I am dedicated to crafting visually appealing and user-centric interfaces. Adept at turning design concepts into functional, responsive websites through my coding skills in HTML, CSS, and JavaScript. Eager to contribute my creativity and technical skills to collaborate on innovative web projects.</p>
+<p align="left">I'm from Quezon City, Philippines.<br><br>- 📚 I'm currently learning, front-end development with Meta on Coursera and pursuing Google IT Automation courses, both of which are enhancing my knowledge and proficiency in these technology domains.<br><br>- ⚡ Aspiring Front-End Developer with a passion for creating seamless user experiences. Proficient in UI/UX design principles, I am dedicated to crafting visually appealing and user-centric interfaces. Adept at turning design concepts into functional, responsive websites through my coding skills in HTML, CSS, and JavaScript. Eager to contribute my creativity and technical skills to collaborate on innovative web projects.</p>
 
 ###
 
@@ -105,5 +108,13 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Jevxtn/Jevxtn/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31bclajdqrkoltesuehbk6wj44aq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
