@@ -10,7 +10,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/john-emmanuel-villegas-8a695023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-emmanuel-villegas-8a695023a/" height="30" width="40" /></a><a href="https://discordapp.com/users/892664714574835743" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="https://discordapp.com/users/892664714574835743" height="30" width="40" /></a><a href="https://www.behance.net/Jevxtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="Jevxtn" height="30" width="40" /></a><a href="https://medium.com/@Jevxtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@Jevxtn" height="30" width="40" /></a></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jevxtn&theme=ambient-gradient)](https://git.io/streak-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Languages and Tools</h3>
 <p align="center">
