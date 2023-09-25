@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm John Emmanuel C. Villegas</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jevxtn&label=Profile%20views&color=0e75b6&style=flat" alt="Jevxtn" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jevxtn&theme=radical)](https://github.com/Jevxtn/github-profile-trophy)
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jevxtn&theme=radical" alt="Jevxtn" /></a> </p>
+<p align="center"><a href="https://github.com/Jevxtn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jevxtn&theme=radical" alt="Jevxtn" /></a> </p>
 
 <div align="center">
 <a href="https://github.com/Jevxtn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
