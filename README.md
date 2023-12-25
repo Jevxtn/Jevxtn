@@ -8,7 +8,7 @@
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[![An image of @jevxtn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jevxtn)](https://holopin.io/@jevxtn)<h3 align="center">Badges</h3>
+[![An image of @jevxtn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jevxtn)](https://holopin.io/@jevxtn)<h3 align="center">TryHackMe Badge</h3>
 
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/v3gz.png" alt="TryHackMe"></p>
 
