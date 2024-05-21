@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jevxtn&label=Profile%20views&color=0e75b6&style=flat" alt="Jevxtn" /></p>
 
 <p align="center"><a href="https://github.com/Jevxtn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jevxtn&theme=radical" alt="Jevxtn"></a></p>
@@ -10,7 +9,6 @@
 
 [![An image of @jevxtn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jevxtn)](https://holopin.io/@jevxtn)<h3 align="center">TryHackMe Badge</h3>
 
-<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/v3gz.png" alt="TryHackMe"></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Languages and Tools</h3>
 <p align="center">
